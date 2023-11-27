@@ -1,8 +1,8 @@
 package HW;
 
 public class Hw7 {
-    public static double BMI(double a, double b){
-        return a/(b*b);
+    public static double BMI(double wieght, double hieght){
+        return wieght/(hieght*hieght);
     }
 
     public static void main(String[] args) {
